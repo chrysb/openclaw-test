@@ -1,0 +1,19 @@
+# Auth & secrets
+agents/
+credentials/
+identity/
+gogcli/
+*.token
+
+# Logs & caches
+logs/
+canvas/
+*.log
+update-check.json
+
+# Backups
+*.bak
+*.bak.*
+
+# OS
+.DS_Store
